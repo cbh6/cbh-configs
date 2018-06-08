@@ -1,7 +1,7 @@
 {
   "workbench.iconTheme": "vscode-great-icons",
   "workbench.colorTheme": "One Monokai",
-  "window.zoomLevel": -1,
+  "window.zoomLevel": -2,
   "editor.tabSize": 2,
   "editor.fontLigatures": true,
   "editor.formatOnSave": false,
@@ -11,6 +11,7 @@
   "emmet.includeLanguages": {
     "javascript": "javascript/react"
   },
+  "files.defaultLanguage": "markdown",
   "emmet.triggerExpansionOnTab": true,
   "gitlens.advanced.messages": {
     "suppressCommitHasNoPreviousCommitWarning": false,
@@ -24,25 +25,21 @@
     "suppressUpdateNotice": false,
     "suppressWelcomeNotice": true
   },
-  // Place your settings in this file to overwrite the default settings
+  "editor.fontSize": 15,
   "editor.fontFamily": "Fira Code",
+  "editor.fontWeight": "500",
   "gitlens.keymap": "alternate",
   "editor.folding": false,
   "editor.hideCursorInOverviewRuler": true,
-  "editor.lineHeight": 26,
+  "editor.lineHeight": 24,
   "editor.lineNumbers": "off",
-  "editor.matchBrackets": false,
   "editor.minimap.enabled": false,
   "editor.occurrencesHighlight": false,
   "editor.overviewRulerBorder": false,
   "editor.renderIndentGuides": false,
   "editor.renderLineHighlight": "none",
-  // "editor.scrollbar.horizontal": "hidden",
   "explorer.openEditors.visible": 0,
-  // "workbench.activityBar.visible": false,
-  // "workbench.colorTheme": "Subliminal",
-  // "workbench.iconTheme": null,
   "workbench.editor.showIcons": false,
-  // "workbench.statusBar.visible": false,
+  "gitlens.historyExplorer.enabled": true,
+  "explorer.confirmDragAndDrop": false
 }
-
