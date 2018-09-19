@@ -1,7 +1,7 @@
 {
-  "workbench.iconTheme": "vscode-great-icons",
+  "workbench.iconTheme": "eq-material-theme-icons",
   "workbench.colorTheme": "One Monokai",
-  "window.zoomLevel": -2,
+  "window.zoomLevel": -1,
   "editor.tabSize": 2,
   "editor.fontLigatures": true,
   "editor.formatOnSave": false,
@@ -29,17 +29,18 @@
   "editor.fontFamily": "Fira Code",
   "editor.fontWeight": "500",
   "gitlens.keymap": "alternate",
-  "editor.folding": false,
   "editor.hideCursorInOverviewRuler": true,
   "editor.lineHeight": 24,
-  "editor.lineNumbers": "off",
+  "editor.lineNumbers": "on",
   "editor.minimap.enabled": false,
   "editor.occurrencesHighlight": false,
   "editor.overviewRulerBorder": false,
-  "editor.renderIndentGuides": false,
+  "editor.renderIndentGuides": true,
   "editor.renderLineHighlight": "none",
   "explorer.openEditors.visible": 0,
   "workbench.editor.showIcons": false,
   "gitlens.historyExplorer.enabled": true,
-  "explorer.confirmDragAndDrop": false
+  "explorer.confirmDragAndDrop": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "eslint.alwaysShowStatus": true
 }

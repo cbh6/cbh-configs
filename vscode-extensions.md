@@ -16,3 +16,6 @@
 - Prettier
 - Subliminal
 - Vetur
+- AutoImport
+- React snippets
+- XML Tools
