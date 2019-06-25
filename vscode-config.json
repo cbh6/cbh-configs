@@ -1,46 +1,32 @@
 {
-  "workbench.iconTheme": "eq-material-theme-icons",
-  "workbench.colorTheme": "One Monokai",
-  "window.zoomLevel": -1,
-  "editor.tabSize": 2,
-  "editor.fontLigatures": true,
-  "editor.formatOnSave": false,
-  "prettier.printWidth": 100,
-  "prettier.eslintIntegration": true,
-  "prettier.singleQuote": true,
-  "emmet.includeLanguages": {
-    "javascript": "javascript/react"
-  },
-  "files.defaultLanguage": "markdown",
-  "emmet.triggerExpansionOnTab": true,
-  "gitlens.advanced.messages": {
-    "suppressCommitHasNoPreviousCommitWarning": false,
-    "suppressCommitNotFoundWarning": false,
-    "suppressFileNotUnderSourceControlWarning": false,
-    "suppressGitVersionWarning": false,
-    "suppressLineUncommittedWarning": false,
-    "suppressNoRepositoryWarning": false,
-    "suppressResultsExplorerNotice": false,
-    "suppressShowKeyBindingsNotice": true,
-    "suppressUpdateNotice": false,
-    "suppressWelcomeNotice": true
-  },
-  "editor.fontSize": 15,
-  "editor.fontFamily": "Fira Code",
-  "editor.fontWeight": "500",
-  "gitlens.keymap": "alternate",
-  "editor.hideCursorInOverviewRuler": true,
-  "editor.lineHeight": 24,
-  "editor.lineNumbers": "on",
+  "window.zoomLevel": 0,
+  "workbench.iconTheme": "vscode-great-icons",
   "editor.minimap.enabled": false,
-  "editor.occurrencesHighlight": false,
-  "editor.overviewRulerBorder": false,
-  "editor.renderIndentGuides": true,
-  "editor.renderLineHighlight": "none",
-  "explorer.openEditors.visible": 0,
-  "workbench.editor.showIcons": false,
-  "gitlens.historyExplorer.enabled": true,
-  "explorer.confirmDragAndDrop": false,
-  "javascript.updateImportsOnFileMove.enabled": "always",
-  "eslint.alwaysShowStatus": true
+  "files.defaultLanguage": "Javascript",
+  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+  "window.title": " ${dirty} ${activeEditorMedium}${separator}${rootName}",
+  "editor.fontFamily": "Fira Code",
+  "less.lint.fontFaceProperties": "ignore",
+  "extensions.ignoreRecommendations": true,
+  //Eslint & prettier
+  "editor.formatOnSave": true,
+  "eslint.alwaysShowStatus": true,
+  "eslint.autoFixOnSave": true,
+  "[javascript]": {
+    "editor.formatOnSave": false
+  },
+
+  "[javascriptreact]": {
+    "editor.formatOnSave": false
+  },
+  "prettier.disableLanguages": ["javascript", "javascriptreact"],
+  "workbench.colorTheme": "One Monokai",
+  "editor.renderIndentGuides": false,
+  "editor.lineHeight": 24,
+  "files.eol": "\n",
+  // "workbench.editor.showIcons": false,
+  // "workbench.statusBar.visible": false
+  "workbench.activityBar.visible": false,
+  "zenMode.hideTabs": false,
+  "editor.fontLigatures": true
 }
