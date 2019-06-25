@@ -1,6 +1,6 @@
 # vs code extensions
 
-- Atom one dark theme
+- One monokai theme
 - Custom CSS and JS Loader
 - DotENV
 - EditorConfig for VS code
@@ -9,13 +9,17 @@
 - Markdown All in one
 - markdownlint
 - Mediawiki
-- Monokai pro
 - npm
 - npm Intellisense
-- One dark pro
 - Prettier
 - Subliminal
 - Vetur
 - AutoImport
 - React snippets
 - XML Tools
+
+- Auto close tag
+- Auto rename tag
+- Bracket pair colorizer
+- Color Highlight
+- Import cost
