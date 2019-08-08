@@ -5,7 +5,7 @@
   "files.defaultLanguage": "Javascript",
   "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
   "window.title": " ${dirty} ${activeEditorMedium}${separator}${rootName}",
-  "editor.fontFamily": "Fira Code",
+  // "editor.fontFamily": "Consolas, Fira Code",
   "less.lint.fontFaceProperties": "ignore",
   "extensions.ignoreRecommendations": true,
   //Eslint & prettier
@@ -20,13 +20,25 @@
     "editor.formatOnSave": false
   },
   "prettier.disableLanguages": ["javascript", "javascriptreact"],
-  "workbench.colorTheme": "One Monokai",
   "editor.renderIndentGuides": false,
-  "editor.lineHeight": 24,
   "files.eol": "\n",
   // "workbench.editor.showIcons": false,
-  // "workbench.statusBar.visible": false
+  // "workbench.statusBar.visible": false,
   "workbench.activityBar.visible": false,
   "zenMode.hideTabs": false,
-  "editor.fontLigatures": true
+  "editor.fontLigatures": true,
+  // "workbench.colorCustomizations": {
+  //   "tab.inactiveForeground": "#8d90c4",
+  //   "sideBar.border": "#8d90c450",
+  //   "terminal.border": "#8d90c4",
+  //   "sideBar.foreground": "#dedeeb9d",
+  //   "terminalCursor.foreground": "#8d90c4",
+  //   "terminalCursor.background": "#8d90c4",
+  //   "input.foreground": "#8d90c4",
+  //   "panel.border": "#8d90c4"
+  // },
+  // "editor.fontFamily": "FiraFlott",
+  "editor.lineHeight": 24,
+  "explorer.decorations.badges": false,
+  "workbench.colorTheme": "One Monokai"
 }
