@@ -23,3 +23,7 @@
 - Bracket pair colorizer
 - Color Highlight
 - Import cost
+- lit-html
+- path intellisense
+- React standard style code snippets
+- Spanish language pack for vscode
