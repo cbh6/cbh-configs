@@ -40,5 +40,11 @@
   // "editor.fontFamily": "FiraFlott",
   "editor.lineHeight": 24,
   "explorer.decorations.badges": false,
-  "workbench.colorTheme": "One Monokai"
+  "workbench.colorTheme": "One Monokai",
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx"
+  },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  }
 }
