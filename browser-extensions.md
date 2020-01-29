@@ -1,0 +1,10 @@
+- fireshot
+- emoji keyboard
+- cookie-editor
+- wappalyzer 
+- colorZilla
+- grammarly
+- responsive viewer
+- react redux devtools
+- json viewer
+- lighthouse
