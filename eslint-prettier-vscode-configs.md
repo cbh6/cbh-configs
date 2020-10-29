@@ -105,12 +105,22 @@ our .eslintrc
   // "files.defaultLanguage": "Javascript",
   // "less.lint.fontFaceProperties": "ignore",
   // "eslint.autoFixOnSave": true,
-  // "[javascript]": {
-  //   "editor.formatOnSave": false
+  // "[html]": {
+  //  "editor.defaultFormatter": "esbenp.prettier-vscode"
+  // },
+  // "[jsonc]": {
+  //  "editor.defaultFormatter": "esbenp.prettier-vscode"
+  // },
+  // "[json]": {
+  //  "editor.defaultFormatter": "esbenp.prettier-vscode"
   // },
   // "[javascriptreact]": {
-  //   "editor.formatOnSave": false
+  //  "editor.defaultFormatter": "esbenp.prettier-vscode"
   // },
+  // "[javascript]": {
+  //  "editor.formatOnSave": false,
+  //  "editor.defaultFormatter": "esbenp.prettier-vscode"
+  // }
   // "prettier.disableLanguages": [
   //   "javascript",
   //   "javascriptreact",
