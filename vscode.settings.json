@@ -1,0 +1,63 @@
+{
+  // "window.zoomLevel": 0.2,
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.minimap.enabled": false,
+  // "files.defaultLanguage": "Javascript",
+  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+  "window.title": " ${dirty} ${activeEditorMedium}${separator}${rootName}",
+  // "less.lint.fontFaceProperties": "ignore",
+  "extensions.ignoreRecommendations": true,
+  "eslint.alwaysShowStatus": true,
+  "editor.renderIndentGuides": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.fontLigatures": true,
+  "editor.lineHeight": 24,
+  // "eslint.autoFixOnSave": true,
+  // "[javascript]": {
+  //   "editor.formatOnSave": false
+  // },
+  "[php]": {
+    // "editor.formatOnSave": true,
+    "editor.defaultFormatter": "junstyle.php-cs-fixer"
+  },
+  // "[javascriptreact]": {
+  //   "editor.formatOnSave": false
+  // },
+  // "prettier.disableLanguages": [
+  //   "javascript",
+  //   "javascriptreact",
+  //   // "typescript",
+  //   "markdown",
+  // ],
+  "files.eol": "\n",
+  "workbench.activityBar.visible": false,
+  "zenMode.hideTabs": false,
+  "explorer.decorations.badges": false,
+  "workbench.colorTheme": "One Monokai",
+  "markdown.preview.fontFamily": "-apple-s, 'Courier New', monospaceystem, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', 'Ubuntu', 'Droid Sans', sans-serif",
+  "debug.console.fontFamily": "defaults",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "explorer.confirmDelete": false,
+  "javascript.preferences.quoteStyle": "single",
+  "typescript.preferences.quoteStyle": "single",
+  "terminal.integrated.shell.linux": "/bin/zsh",
+  "javascript.validate.enable": false,
+  "editor.fontFamily": "'JetBrains Mono'",
+  "editor.fontWeight": "400",
+  "window.zoomLevel": 0,
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx"
+  },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "diffEditor.ignoreTrimWhitespace": false,
+  "prettier.jsxSingleQuote": true,
+  "prettier.useEditorConfig": true,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "all",
+  "prettier.printWidth": 120,
+  "php.validate.executablePath": "/usr/bin/php",
+  "php-cs-fixer.executablePath": "${extensionPath}/php-cs-fixer.phar",
+  "php-cs-fixer.lastDownload": 1607511581848
+}
