@@ -169,7 +169,7 @@ our .eslintrc
 }
 ```
 
-Prettier configuration are not needed on the vscode settings.json file since **settings will be read from (listed by priority):**
+Prettier configuration is not needed on the vscode settings.json file since **settings will be read from (listed by priority):**
 
 - Prettier configuration file
 - .editorconfig
