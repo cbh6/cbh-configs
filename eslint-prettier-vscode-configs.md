@@ -1,6 +1,7 @@
 # ESLint + Prettier config on a React project
 
 - We need ESLint and Prettier plugins installed on VSCode
+- https://github.com/prettier/prettier-vscode
 
 ## ESLint
 
